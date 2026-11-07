@@ -1,0 +1,12 @@
+Número total de rutas: 4
+Ruta más corta: 8 movimientos (Ruta 2)
+Ruta de menor costo: costo 10 (10 movimientos, Ruta 3)
+
+Mapa de la isla con la ruta de menor costo marcada (*):
+~ ~ ~ ~ ~ ~ ~
+~ P * * * * ~
+~ R T T T * ~
+~ D C T * * ~
+~ R T C * T ~
+~ C D C * B ~
+~ ~ ~ ~ ~ ~ ~

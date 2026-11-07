@@ -1,0 +1,9 @@
+Fila 2: tiene 7 posiciones; se esperaban 8
+Fila 3: tiene 7 posiciones; se esperaban 8
+Fila 4: tiene 7 posiciones; se esperaban 8
+Fila 5: tiene 7 posiciones; se esperaban 8
+Fila 6: tiene 7 posiciones; se esperaban 8
+Fila 7: tiene 7 posiciones; se esperaban 8
+Posición {0, 5}: el borde debe ser agua y contiene C
+Posición {0, 6}: el borde debe ser agua y contiene C
+Posición {0, 7}: el borde debe ser agua y contiene C
